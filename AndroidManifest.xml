@@ -108,7 +108,7 @@
         </service>
 
         <!-- Caffeine-->
-        <service
+<!--        <service
             android:name=".CaffeineTile"
             android:icon="@drawable/ic_caffeine_on"
             android:label="@string/caffeine_label"
@@ -116,7 +116,7 @@
             <intent-filter>
                 <action android:name="android.service.quicksettings.action.QS_TILE" />
             </intent-filter>
-        </service>
+        </service>  -->
 
         <!-- USB Tether -->
         <service
